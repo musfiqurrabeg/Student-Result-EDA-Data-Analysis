@@ -32,7 +32,7 @@ pip install numpy pandas matplotlib seaborn
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/musfiqurrabeg/Student-Result-EDA-Data-Analysis.git
    ```
 
 2. Open the notebook:
